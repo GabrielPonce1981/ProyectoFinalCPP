@@ -7,6 +7,8 @@ using namespace std;
 
 string NOMBRE_ARCHIVO = "CajeroAutomatico.txt";
 
+//Estructura de cliente
+
 struct cliente
 {
     string NOMBRE;
